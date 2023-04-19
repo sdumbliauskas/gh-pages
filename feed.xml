@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Iškilioji spauda</title>
+    <link href="https://letterpress.lt/feed.xml" rel="self" />
+    <link href="https://letterpress.lt" />
+    <updated>2023-04-17T14:53:45+03:00</updated>
+    <author>
+        <name>Elegante Press</name>
+    </author>
+    <id>https://letterpress.lt</id>
+
+    <entry>
+        <title>Kas yra iškilioji spauda ir kokį įspūdį ji suteiks jūsų spaudiniams</title>
+        <author>
+            <name>Elegante Press</name>
+        </author>
+        <link href="https://letterpress.lt/iskilioji-spauda/"/>
+        <id>https://letterpress.lt/iskilioji-spauda/</id>
+        <media:content url="https://letterpress.lt/media/posts/1/photography-business-cards-12.jpg" medium="image" />
+
+        <updated>2023-04-17T14:53:45+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://letterpress.lt/media/posts/1/photography-business-cards-12.jpg" alt="iskilioji spauda" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit eros, dignissim molestie ipsum et, fermentum vulputate ante. Nulla pulvinar nibh ut tincidunt aliquet. Mauris id efficitur nisl. Vestibulum fringilla a leo pretium bibendum. Donec venenatis metus quis quam rhoncus, nec tempor augue vulputate. Nunc&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://letterpress.lt/media/posts/1/photography-business-cards-12.jpg" class="type:primaryImage" alt="iskilioji spauda" /></p>
+                
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit eros, dignissim molestie ipsum et, fermentum vulputate ante. Nulla pulvinar nibh ut tincidunt aliquet. Mauris id efficitur nisl. Vestibulum fringilla a leo pretium bibendum. Donec venenatis metus quis quam rhoncus, nec tempor augue vulputate. Nunc a mi ipsum. Proin vehicula, ex fringilla lobortis convallis, felis leo mollis diam, id feugiat eros libero a libero. Cras vitae sem vitae ipsum varius viverra quis auctor odio. Nullam aliquam neque ex, eu vehicula sem sollicitudin quis. Aliquam est arcu, viverra ut bibendum at, congue eu orci. Nulla non ipsum sed lacus consectetur mollis. Sed congue luctus arcu eu condimentum. Fusce lobortis pharetra purus, id ultrices purus posuere sed. Donec a maximus dolor. Donec accumsan nisl ut auctor congue.<br>
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://letterpress.lt/media/posts/1/gallery/letterpress-business-card-with-portrait-and-painted-edges-2.jpg" data-size="1600x1060">
+        <img loading="lazy" src="https://letterpress.lt/media/posts/1/gallery/letterpress-business-card-with-portrait-and-painted-edges-2-thumbnail.jpg" height="509" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://letterpress.lt/media/posts/1/gallery/business-card-with-embossing.jpg" data-size="1600x1012">
+        <img loading="lazy" src="https://letterpress.lt/media/posts/1/gallery/business-card-with-embossing-thumbnail.jpg" height="486" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://letterpress.lt/media/posts/1/gallery/letterpress-christening-card-5.jpg" data-size="3696x2448">
+        <img loading="lazy" src="https://letterpress.lt/media/posts/1/gallery/letterpress-christening-card-5-thumbnail.jpg" height="509" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://letterpress.lt/media/posts/1/gallery/Mallorca-Inspired-Letterpress-Business-Card-10.jpg" data-size="3696x2448">
+        <img loading="lazy" src="https://letterpress.lt/media/posts/1/gallery/Mallorca-Inspired-Letterpress-Business-Card-10-thumbnail.jpg" height="509" width="768" alt="Letterpress mėlyna spauda ir aukso folija" >
+      </a>
+      <figcaption>Letterpress mėlyna spauda ir aukso folija</figcaption>
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    Morbi pharetra interdum dolor, id rhoncus magna. Quisque sit amet odio sapien. Donec fringilla dolor vel aliquet maximus. Nam malesuada sed libero a egestas. In at ornare tortor, eget dignissim mi. Nullam condimentum, nisl vel blandit rutrum, urna nunc commodo leo, quis dignissim arcu diam a tellus. In eget eleifend nisi. Nam dignissim ac urna quis varius. Nullam ut eros non tortor ornare molestie nec sit amet diam. Pellentesque id suscipit turpis. Proin ac libero neque. Pellentesque nec ligula dolor. Vivamus eget libero non dui dapibus vestibulum. Fusce interdum augue quis est suscipit, eu fermentum sapien auctor.<br>
+  </p>
+
+  <p>
+    <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/mWNa4ZDBYMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+  </p>
+
+  <p>
+    Proin enim mi, venenatis sit amet venenatis et, accumsan non nibh. Etiam malesuada nibh vitae eros commodo ornare. Morbi dignissim nunc nec aliquet efficitur. Nam pretium mauris velit, vitae viverra ante malesuada ut. Suspendisse molestie erat enim, et dictum eros varius in. Proin tincidunt purus vel arcu elementum, id cursus risus ornare. Sed enim magna, fringilla quis convallis sed, consectetur eget magna. Suspendisse eget orci ac felis molestie lobortis. Proin vitae fermentum lorem. Mauris non libero interdum, pharetra enim pellentesque, molestie neque. Quisque pulvinar maximus lacus vitae eleifend. Nam eu odio sed leo ultrices egestas in in sem. Vivamus vehicula magna in sagittis tempus. Maecenas nulla urna, laoreet et eleifend at, accumsan non nunc.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
